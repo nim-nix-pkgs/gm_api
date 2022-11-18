@@ -13,7 +13,7 @@
   "heads": [
     {
       "name": "gm_api",
-      "version": "0.1.0",
+      "version": "0.2.2",
       "author": "Thiago Navarro",
       "desc": "Bindings for Greasemonkey API and header generator",
       "license": "MIT",
